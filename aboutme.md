@@ -3,11 +3,6 @@ layout: page
 title: Iván Corrales Solera
 hide_description: true
 permalink: /aboutme
-accent_image: 
-  background: url('/assets/img/sidebar-code.jpg') center/cover
-  overlay: false
-accent_color: '#ccc'
-theme_color: '#ccc'
 ---
 
 Madrid, Spain | hello@ivancorrales.com | +34684127676
