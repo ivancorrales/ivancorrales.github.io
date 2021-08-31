@@ -44,11 +44,11 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About me
-    url:               /resume/
+    url:               /resume
   - title:             Blog
-    url:               /blog/
+    url:               /blog
   - title:             Projects
-    url:               /projects/
+    url:               /projects
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
