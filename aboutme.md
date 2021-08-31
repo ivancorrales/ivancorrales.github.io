@@ -3,6 +3,11 @@ layout: page
 title: Iván Corrales Solera
 hide_description: true
 permalink: /aboutme
+accent_image: 
+  background: url('/assets/img/sidebar-code.jpg') center/cover
+  overlay: false
+accent_color: '#ccc'
+theme_color: '#ccc'
 ---
 
 Madrid, Spain | hello@ivancorrales.com | +34684127676
@@ -63,28 +68,3 @@ Currently, I am enrolled in a Master in Artificial Intelligence and It is my des
 - Bachelor of Software Engineering (September 2003 - May 2007)
 - Several self-training and non official certifications
 
----
-<!-- 
-## Skills (In progress)
-
-### Cloud technologies
-More than 6 years of experience working with **docker**, not only for deploying services but also to setup development environments. I've setup multiple integration tests by taking advantage of **docker-compose**. I've deployed services onto AWS, Kuberntes and GCP. 
-
-### Programming languages 
-I can code in several programming languages such as Java, Python, Javascript, Groovy, Scala, Ruby Elixir, PHP among others although the latests 5 years I've mainly worked with Go.
-
-### Software development
-Design patterns, clean code, TDD, BDD. Continuous integration, Continuous deployment
-
-### API Development 
-I have great experiences building API's with SOAP, REST, GraphQL, Grpc. I've also built microservices architectures 
-
-### Methodologies 
-I have more than 8 years of experience working with Agile methodologies (Scrum, Kanban, Squads, Guilds)
-
-### Databases 
-MongoDB 
-
-### Infrastructure 
-Ansible, Terraform, Cloud formation
--->
