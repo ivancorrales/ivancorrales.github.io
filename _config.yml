@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# url:                   https://username.github.io
+url:                   https://ivancorrales.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -39,7 +39,7 @@ logo:                  /assets/img/logo.png
 author:
   # Used by `jekyll-feed`:
   name: Iván Corrales
-  email: <ivan.corrales.solera@gmail.com>
+  email: <hello@ivancorrales.com>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -132,24 +132,6 @@ defaults:
   #     type:            posts
   #   values:
   #     comments:        true
-
-  # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
-  # but we want them to be `WebPage`s:
-  - scope:
-      type:            projects
-    values:
-      seo:
-        type:          WebPage
-  - scope:
-      type:            featured_categories
-    values:
-      seo:
-        type:          WebPage
-  - scope:
-      type:            featured_tags
-    values:
-      seo:
-        type:          WebPage
 
 kramdown:
   math_engine:         mathjax
