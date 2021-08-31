@@ -10,7 +10,7 @@ accent_color: '#ccc'
 theme_color: '#ccc'
 ---
 
-Madrid, Spain | ivan.corrales.solera@gmail.com | +34684127676
+Madrid, Spain | hello@ivancorrales.com | +34684127676
 
 ---
 

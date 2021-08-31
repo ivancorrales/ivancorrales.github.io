@@ -3,7 +3,7 @@
 # Change `author1` to your shortname.
 author1:
   name: Iván Corrales
-  email: ivan.corrales.solera@gmail.com
+  email: hello@ivancorrales.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -21,7 +21,7 @@ author1:
     #twitter:         <username>
     github: ivancorrales
     linkedin: ivan-corrales-solera
-    email: ivan.corrales.solera@gmail.com
+    email: hello@ivancorrales.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
