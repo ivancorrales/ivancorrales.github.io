@@ -44,7 +44,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About me
-    url:               /resume
+    url:               /aboutme
   - title:             Blog
     url:               /blog
   - title:             Projects
