@@ -37,11 +37,12 @@ Let's image that we have a Vegan Restaurant and we want to improve our waiter se
 After years of attending people we can state the following assumptions:
 
 - The waiter spends `1 minute` accompanying the customers to the table.
-- The spendt time ont deciding what to eat is always `5 minutes` (it doesn't depend on the number of people in the group).
+- The spent time on deciding what to eat is always `5 minutes` (it doesn't depend on the number of people in the group).
 - Each group will spend `30 seconds` per person on ordering the food. 
 - The waiter spends `45 seconds` (0.75 minutes) on serving the food for each person in the group. 
 - Each group will spend `20 minutes` eating and we assume that the number of people in the group won't affect the spent time.
 - The spent time on paying the bill and leaving the table free will be always `3 minutes`. 
+- Cooking the food takes `4 minutes` per person
 
 Apart from the above assumptions, we also need to consider that:
 
