@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /blog/nlp-transformers-bert
-title: Transformers for Natural Language Processing (NLP) by example
+title: Transformers for Natural Language Processing (NLP)
 tags:
   - NLP
   - Artificial Inteligence
