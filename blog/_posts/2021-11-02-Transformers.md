@@ -92,6 +92,13 @@ In our implementation we will use [PyTorch](https://pytorch.org/). PyTorch is an
 
 --- 
 
+
+## Conclussion
+
+The performance score is not the best but we didn't work on fine tunning (This would be covered in other post). Moreover the example was run with free instances provided by Google and as consequence this has multiple limitations, like the batch size.
+
+Understanding how the Transformers work could be tricky but ¡implementing a showcase is not rocket science at all
+
 ## References
 
 * *Wikipedia contributors. (2021, October 30). Natural language processing. In Wikipedia, The Free Encyclopedia. Retrieved 07:27, November 2, 2021, from [https://en.wikipedia.org/w/index.php?title=Natural_language_processing&oldid=1052735380](https://en.wikipedia.org/w/index.php?title=Natural_language_processing&oldid=1052735380)
