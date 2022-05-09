@@ -4,6 +4,11 @@ title:       Projects
 permalink: /projects
 --- 
 
+## Master's Thesis in Artificial Intelligence (2022)
+
+Spanish Version: [Analysis of models based on Transformers for Answer Search Systems in an academic domain](https://raw.githubusercontent.com/ivancorrales/ivancorrales.github.io/master/THESIS_MASTER_AI.pdf)
+
+
 ## Open Source tools
 
 The list on the below shows some of the more relevant projects which I've developed from scratch. 

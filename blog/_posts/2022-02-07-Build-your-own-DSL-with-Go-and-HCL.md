@@ -20,5 +20,5 @@ comments: true
 
 The article can be found on Medium
 
-https://blog.devgenius.io/build-your-own-dsl-with-go-hcl-602c92ce24c0
+[https://blog.devgenius.io/build-your-own-dsl-with-go-hcl-602c92ce24c0](https://blog.devgenius.io/build-your-own-dsl-with-go-hcl-602c92ce24c0)
 

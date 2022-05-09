@@ -19,5 +19,5 @@ comments: true
 
 The article can be found on Medium
 
-https://ivan-corrales-solera.medium.com/transformers-for-natural-language-processing-nlp-b5c47aee4d65
+[https://ivan-corrales-solera.medium.com/transformers-for-natural-language-processing-nlp-b5c47aee4d65](https://ivan-corrales-solera.medium.com/transformers-for-natural-language-processing-nlp-b5c47aee4d65)
 

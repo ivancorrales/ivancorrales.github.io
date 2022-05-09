@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /blog/webassembly-running-go-code-in-the-browser
-title: Webassembly\: Running Go code in the browser
+title: Webassembly, Running Go code in the browser
 tags:
   - Go
   - Programming
@@ -20,5 +20,5 @@ comments: true
 
 The article can be found on Medium
 
-https://itnext.io/webassembly-running-go-code-in-the-browser-916d87456e5f
+[https://itnext.io/webassembly-running-go-code-in-the-browser-916d87456e5f](https://itnext.io/webassembly-running-go-code-in-the-browser-916d87456e5f)
 
